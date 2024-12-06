@@ -1,0 +1,3 @@
+Wijzigingen koppelvlak Levensonderhoud-Aanvraag 1.0 t.o.v. 0.80
+-	RedenAanvraag bevatte een onjuist enumeratie bij 'Reden'. Deze vervangen door de attributen: OnvoldoendeInkomen, Verblijfstatus, WijzigingGezin, Zelfstandige (allen bevatten redenen voor aanvraag, dit is in lijn met ontologie)
+-	Labels/Namen van diverse attributen in lijn gebracht met ontologie 1.0
