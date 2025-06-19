@@ -1,0 +1,9 @@
+Wijzigingen koppelvlak Levensonderhoud-Aanvraag 1.2 t.o.v. 1.0
+-	Structuur gewijzigd zodat deze overeen komt met structuur zoals toegepast in ontologie 1.2
+-	Attribuutnamen, Entiteitnamen en beschrijvingen aangepast naar ontologie 1.2
+-	RedenAanvraag wordt vastgelegd op niveau van Aanvraag en niet per persoon (aanvrager of medeaanvrager)
+-	Opties RedenAanvraag uitgebreid volgens ontologie 1.2
+-	Er kunnen (optioneel) meer details opgenomen worden bij inkomstencomponent(en)
+-	Er kunnen inkomstenverhoudingen opgenomen worden inclusief de bekostiger (persoon of organisatie)
+-	ANummer als extra (optioneel) attribuut opgenomen bij Persoon
+-	Verschillende tekstuele aanpassingen aan Uitgangspuntendocument
